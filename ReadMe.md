@@ -1,6 +1,4 @@
-Author: Bhavisha Anil Gaikwad
 
-Date: 27/05/2026
 
 **Intro:**
 
